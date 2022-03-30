@@ -1,0 +1,104 @@
+[
+    {
+      "fullName": "Restaurant A",
+      "id": 1,
+      "costForTwo": 200,
+      "Location": "Bangalore",
+      "menu": [
+        {
+          "name": "Veg Sandwich",
+          "price": "100",
+          "rating": 5
+        },
+        {
+          "name": "Veg Burger",
+          "price": "100",
+          "rating": 5
+        },
+        {
+          "name": "Chicken Burger",
+          "price": "150",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "fullName": "Restaurant B",
+      "id": 2,
+      "costForTwo": 2000,
+      "Location": "Bangalore",
+      "menu": [
+        {
+          "name": "Soup",
+          "price": "1000",
+          "rating": 3
+        },
+        {
+          "name": "Fried rice",
+          "price": "900",
+          "rating": 5
+        },
+        {
+          "name": "Pizza",
+          "price": "800",
+          "rating": 4
+        },
+        {
+            "name": "Veg Sandwich",
+            "price": "100",
+            "rating": 5
+        }
+      ]
+    },
+    {
+      "fullName": "Restaurant C",
+      "id": 3,
+      "costForTwo": 1500,
+      "Location": "Bangalore",
+      "menu": [
+        {
+          "name": "Idly",
+          "price": "1000",
+          "rating": 1
+        },
+        {
+          "name": "Dosa",
+          "price": "900",
+          "rating": 5
+        },
+        {
+          "name": "Pizza",
+          "price": "800",
+          "rating": 4
+        },
+        {
+          "name": "Vada",
+          "price": "800",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "fullName": "Restaurant D",
+      "id": 4,
+      "costForTwo": 15000,
+      "Location": "Bangalore",
+      "menu": [
+        {
+          "name": "Caviar",
+          "price": "10000",
+          "rating": 3
+        },
+        {
+          "name": "Lobster",
+          "price": "9000",
+          "rating": 2
+        },
+        {
+          "name": "Barnacle",
+          "price": "8000",
+          "rating": 4
+        }
+      ]
+    }
+  ]
